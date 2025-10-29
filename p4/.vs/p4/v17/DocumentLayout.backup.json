@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u6570\u636E\u7ED3\u6784\\Data-structure\\p4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28F9737E-21BF-4D07-B107-C63C9DFD5F3D}|p4.vcxproj|E:\\\u6570\u636E\u7ED3\u6784\\Data-structure\\p4\\\u6E90.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{28F9737E-21BF-4D07-B107-C63C9DFD5F3D}|p4.vcxproj|solutionrelative:\u6E90.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.c",
+              "DocumentMoniker": "E:\\\u6570\u636E\u7ED3\u6784\\Data-structure\\p4\\\u6E90.c",
+              "RelativeDocumentMoniker": "\u6E90.c",
+              "ToolTip": "E:\\\u6570\u636E\u7ED3\u6784\\Data-structure\\p4\\\u6E90.c*",
+              "RelativeToolTip": "\u6E90.c*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwB8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-29T00:10:20.053Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
